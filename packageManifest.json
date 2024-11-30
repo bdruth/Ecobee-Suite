@@ -46,7 +46,7 @@
       "id": "cc05b8d1-01b7-449e-b12b-9f56ccbdf23c",
       "name": "ecobee Suite Smart Circulation",
       "namespace": "sandood",
-      "location": "https://raw.githubusercontent.com/SANdood/Ecobee-Suite/master/smartapps/sandood/ecobee-suite-smart-circulation.src/ecobee-suite-smart-circulation.groovy",
+      "location": "https://raw.githubusercontent.com/bdruth/Ecobee-Suite/refs/heads/master/smartapps/sandood/ecobee-suite-smart-circulation.src/ecobee-suite-smart-circulation.groovy",
       "required": true,
       "oauth": false,
       "version": "1.9.00a"
