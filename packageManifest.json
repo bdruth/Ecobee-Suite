@@ -1,8 +1,8 @@
 {
   "packageName": "Ecobee Suite",
-  "author": "Barry A. Burke",
+  "author": "[bdruth-fork] Barry A. Burke",
   "minimumHEVersion": "2.3.3",
-  "dateReleased": "2022-12-12",
+  "dateReleased": "2024-11-30",
   "releaseNotes": "This update fixes errors in thermostatOperatingMode and in the Smart Circulation and Smart Mode Helpers",
   "communityLink": "https://community.hubitat.com/t/release-universal-ecobee-suite-version-1-8-01/34839/796",
   "apps": [
